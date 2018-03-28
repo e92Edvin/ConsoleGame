@@ -13,7 +13,7 @@ const int width = 20;
 const int height = 20;
 bool gameOver, inners, eat = false, reps = true;
 int x, y, fruitX, fruitY, score, ExtraX, ExtraY, level, iter, ks, nTail, adder;
-int Snake_tailX[100], Snake_tailY[100], max_arr[100]={0};
+int Snake_tailX[1000], Snake_tailY[1000], max_arr[1000]={0};
 char ch, inp;
 enum MoveDirection { STOP = 0, LEFT, RIGHT, UP, DOWN };
 MoveDirection direct;
