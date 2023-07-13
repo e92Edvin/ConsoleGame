@@ -1,5 +1,4 @@
 
-LinkedIn - https://www.linkedin.com/in/edvin-rusecki-848a3215b/
 
 
 Snake Game description.
